@@ -88,8 +88,8 @@ _chỉ để lại:_
 
 <figure><img src="https://docs.vngcloud.vn/download/attachments/49650384/image2023-6-9_9-51-3.png?version=1&#x26;modificationDate=1686279064000&#x26;api=v2" alt=""><figcaption></figcaption></figure>
 
-* **root\_disk\_size**: chỉ định dung lượng ổ root disk, ví dụ: **20**
-* **data\_disk\_size**: chỉ định dung lượng ổ root disk, ví dụ: **50**
+* **root\_disk\_size**: chỉ định dung lượng ổ root, ví dụ: **20**
+* **data\_disk\_size**: chỉ định dung lượng ổ data, ví dụ: **50**
 
 | `variable "ssd_3000"` `{  type`    `= string  default = "3000"}variable "root_disk_size"` `{  type`    `= number  default = 20}variable "data_disk_size"` `{  type`    `= number  default = 50}` |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
