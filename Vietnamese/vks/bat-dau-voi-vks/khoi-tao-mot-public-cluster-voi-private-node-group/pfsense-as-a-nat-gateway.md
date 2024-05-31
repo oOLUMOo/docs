@@ -107,7 +107,7 @@ Sử dụng hướng dẫn bên dưới dể làm việc với Private Node grou
 
 <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-* Bạn thực hiện cấu hình như bên dưới
+* Bạn thực hiện cấu hình như bên dưới và đặt **MTU** 1400
 
 <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
