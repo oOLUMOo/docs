@@ -52,7 +52,7 @@ Sử dụng hướng dẫn bên dưới dể làm việc với Private Node grou
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Cấu hình cho **WAN Interface**
+* Cấu hình cho **WAN Interface**, đặt **MTU** 1400
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
